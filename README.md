@@ -1,2 +1,2 @@
-# MPMP
-math parker math puzzles FUN
+# Matt Parker Math Puzzles
+matt parker math puzzles FUN
