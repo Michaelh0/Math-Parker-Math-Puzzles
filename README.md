@@ -8,4 +8,4 @@ Here is the playlist for all of the different math puzzles, but I only worked on
 
 https://www.youtube.com/watch?v=ILrqPpLpwpE&list=PLz4TOaOdaIEysPF9x8HImrVAwC3MSppjM
 
-The two I worked on are Take-away Triangl,e and David and Anton Problem, and the Unique Distance Problem.
+The three I worked on are Take-away Triangl,e and David and Anton Problem, and the Unique Distance Problem.
